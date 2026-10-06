@@ -1,38 +1,43 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" alt="Muhammed Yusuf Kaya - Yazılım Geliştirici" width="100%">
+  <img src="assets/banner-light.svg" alt="Muhammed Yusuf Kaya - Software Developer" width="100%">
 </picture>
 
 <br>
 
-Python, C++ ve Java ile masaüstü uygulamaları, veritabanı projeleri ve animasyonlar geliştiriyorum. Şu sıralar mobil uygulama üzerinde çalışıyorum.
+### 👋 About me
 
-- 🖥️ Arayüzlü masaüstü uygulamaları (PyQt5)
-- 🗄️ SQLite ile veritabanı tasarımı
-- 🎨 Processing ile görsel programlama ve animasyon
-- 📱 Mobil uygulama geliştirme
+I'm a software developer from Türkiye who enjoys turning ideas into working applications. I build desktop apps with clean interfaces, design relational databases, and experiment with creative coding. These days I'm focused on mobile development.
 
-## 🛠️ Teknolojiler
+- 🔭 Currently building a mobile app
+- 🌱 Learning more about mobile and cross-platform development
+- 💡 Interested in desktop software, databases and visual programming
+- 🇹🇷 Turkish (native) · 🇬🇧 English
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,processing,qt,sqlite,git,github,vscode&perline=10" alt="Python, C++, C, Java, Processing, Qt, SQLite, Git, GitHub, VS Code">
-</p>
+### 🛠️ Skills
 
-## 🚀 Projeler
+**Languages**
 
-<p>
-<a href="https://github.com/yusufky56/windows-yukleme-ekrani"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/windows-yukleme-ekrani-dark.svg"><img src="assets/windows-yukleme-ekrani-light.svg" alt="Windows Yükleme Ekranı" width="49%"></picture></a>
-<a href="https://github.com/yusufky56/gemi-liman-yonetimi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/gemi-liman-yonetimi-dark.svg"><img src="assets/gemi-liman-yonetimi-light.svg" alt="Gemi ve Liman Yönetimi" width="49%"></picture></a>
-</p>
-<p>
-<a href="https://github.com/yusufky56/kutuphane-yonetimi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/kutuphane-yonetimi-dark.svg"><img src="assets/kutuphane-yonetimi-light.svg" alt="Kütüphane Yönetimi" width="49%"></picture></a>
-<a href="https://github.com/yusufky56/cpp-geometri-siniflari"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cpp-geometri-siniflari-dark.svg"><img src="assets/cpp-geometri-siniflari-light.svg" alt="Geometri Sınıfları" width="49%"></picture></a>
-</p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java&perline=10" alt="Python, C++, C, Java">
 
-## 🎬 Öne çıkan
+**Desktop, GUI & Creative Coding**
 
-<p align="center">
-  <a href="https://github.com/yusufky56/windows-yukleme-ekrani"><img src="https://raw.githubusercontent.com/yusufky56/windows-yukleme-ekrani/main/docs/onizleme.gif" alt="Windows yükleme ekranı animasyonu" width="420"></a>
-  <br>
-  <sub>Windows 10/11 açılış ekranı, Processing ile sıfırdan</sub>
-</p>
+<img src="https://skillicons.dev/icons?i=qt,processing&perline=10" alt="Qt (PyQt5), Processing">
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=sqlite&perline=10" alt="SQLite">
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&perline=10" alt="Git, GitHub, VS Code">
+
+### 💼 What I can do
+
+| Area | Details |
+|---|---|
+| **Object-oriented programming** | Class design, inheritance and encapsulation in C++, Python and Java |
+| **Desktop applications** | GUI apps with PyQt5: forms, dialogs, data tables, CRUD operations |
+| **Databases** | Relational schema design, primary/foreign keys and SQL queries with SQLite |
+| **Creative coding** | Animations and visual effects with Processing, easing and timing logic |
+| **Mobile development** | Currently building and publishing a mobile app |
