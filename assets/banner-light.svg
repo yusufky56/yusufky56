@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Muhammed Yusuf Kaya - Yazılım Geliştirici">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f8fafc"/><stop offset="1" stop-color="#e0f2fe"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#dbe7f3" stroke-width="1"/></pattern>
+    <linearGradient id="fade" x1="0" x2="1"><stop offset="0" stop-color="#f8fafc" stop-opacity="1"/><stop offset="0.55" stop-color="#f8fafc" stop-opacity="0.6"/><stop offset="1" stop-color="#f8fafc" stop-opacity="0"/></linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#grid)" opacity="0.7"/>
+  <rect width="1200" height="300" rx="18" fill="url(#fade)"/>
+  <g font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif">
+    <text x="72" y="98" font-size="17" font-weight="600" letter-spacing="3" fill="#0284c7">MERHABA, BEN</text>
+    <text x="70" y="160" font-size="54" font-weight="700" fill="#0f172a">Muhammed Yusuf Kaya</text>
+    <rect x="72" y="184" width="64" height="4" rx="2" fill="#d97706"/>
+    <text x="72" y="226" font-size="22" fill="#475569">Yazılım Geliştirici  ·  Masaüstü, veritabanı ve mobil uygulamalar</text>
+  </g>
+  <g transform="translate(985 150)">
+    <g transform="translate(0 -38) skewX(-10)" fill="#0284c7">
+      <rect x="-44" y="-30" width="41" height="28" rx="2"/><rect x="3" y="-30" width="41" height="28" rx="2"/>
+      <rect x="-44" y="2" width="41" height="28" rx="2"/><rect x="3" y="2" width="41" height="28" rx="2"/>
+    </g>
+    <g transform="translate(0 52)"><circle r="3.2" fill="#0f172a"><animateMotion dur="2.4s" repeatCount="indefinite" begin="0.00s" keyPoints="0;1" keyTimes="0;1" calcMode="spline" keySplines="0.45 0 0.55 1" path="M0,-22 A22,22 0 1,1 -0.01,-22"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="2.4s" begin="0.00s" repeatCount="indefinite"/></circle><circle r="3.2" fill="#0f172a"><animateMotion dur="2.4s" repeatCount="indefinite" begin="0.14s" keyPoints="0;1" keyTimes="0;1" calcMode="spline" keySplines="0.45 0 0.55 1" path="M0,-22 A22,22 0 1,1 -0.01,-22"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="2.4s" begin="0.14s" repeatCount="indefinite"/></circle><circle r="3.2" fill="#0f172a"><animateMotion dur="2.4s" repeatCount="indefinite" begin="0.28s" keyPoints="0;1" keyTimes="0;1" calcMode="spline" keySplines="0.45 0 0.55 1" path="M0,-22 A22,22 0 1,1 -0.01,-22"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="2.4s" begin="0.28s" repeatCount="indefinite"/></circle><circle r="3.2" fill="#0f172a"><animateMotion dur="2.4s" repeatCount="indefinite" begin="0.42s" keyPoints="0;1" keyTimes="0;1" calcMode="spline" keySplines="0.45 0 0.55 1" path="M0,-22 A22,22 0 1,1 -0.01,-22"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="2.4s" begin="0.42s" repeatCount="indefinite"/></circle><circle r="3.2" fill="#0f172a"><animateMotion dur="2.4s" repeatCount="indefinite" begin="0.56s" keyPoints="0;1" keyTimes="0;1" calcMode="spline" keySplines="0.45 0 0.55 1" path="M0,-22 A22,22 0 1,1 -0.01,-22"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="2.4s" begin="0.56s" repeatCount="indefinite"/></circle></g>
+  </g>
+</svg>
